@@ -36,8 +36,7 @@ A comprehensive task management application that allows users to manage their ta
     ```
 
 4. Set up Firebase Firestore:
-    - Follow the [Firebase Flutter Setup Guide](https://firebase.flutter.dev/docs/overview) to configure Firebase for your project.
-    - Ensure that Firestore is enabled in your Firebase console.
+
 
 5. Run the app:
     ```bash
