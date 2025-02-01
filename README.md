@@ -22,7 +22,7 @@ A comprehensive task management application that allows users to manage their ta
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/task-management-app.git
+    git clone https://github.com/tahseen-45/task-manager-app.git
     ```
 
 2. Navigate to the project directory:
