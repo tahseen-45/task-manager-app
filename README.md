@@ -27,7 +27,7 @@ A comprehensive task management application that allows users to manage their ta
 
 2. Navigate to the project directory:
     ```bash
-    cd task-management-app
+    cd task-manager-app
     ```
 
 3. Install dependencies:
